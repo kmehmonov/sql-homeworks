@@ -1,3 +1,6 @@
+CREATE DATABASE lesson4;
+GO
+
 USE lesson4;
 GO
 
