@@ -3,7 +3,7 @@ GO
 
 --method-1
 --Enter a date to see that month calendar
-declare @InputDate date = '1994-12-21'
+declare @InputDate date = '2025-03-14'
 
 --build monthly calendar
 ;with cte as (
